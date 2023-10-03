@@ -24,7 +24,7 @@ This is a simple Java application that calculates the final score based on certa
 4. **View Result**  
    - The application will display the calculated final score along with your name and student ID.
 
-## Components and Weights
+## Score Weights
 
 - `Tubes`: 30%
 - `Quiz`: 10%
@@ -39,15 +39,3 @@ The application takes input values for each component and applies the specified 
 ## Dependencies
 
 This application uses Java's Swing library for the GUI.
-
-## Contributing
-
-Feel free to contribute to this project by forking and creating a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Note: This is a basic documentation. Please feel free to expand or modify it according to your specific project requirements.*
